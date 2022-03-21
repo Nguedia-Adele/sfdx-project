@@ -98,6 +98,7 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
+<<<<<<< feature-maria-gallery
                     <name>animations</name>
                     <value>true</value>
                 </componentInstanceProperties>
@@ -108,6 +109,8 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
+=======
+>>>>>>> main
                     <name>tabs</name>
                     <value>maintabs</value>
                 </componentInstanceProperties>
